@@ -36,7 +36,7 @@ Busca realizada em 08/11/2026.
 | B4 | Fernández Cotarelo MJ et al. Clin Infect Dis. 2003;37(7):973-7 | 13130410 | Retrospectivo / Espanha | 66 episódios | Segundo Cota 2011, mostrou redução significativa de recidiva com profilaxia (droga não especificada) |
 | B5 | Bossolasco S et al. J Clin Microbiol. 2003;41(11):5080-4 | 14605142 | Prospectivo / Itália | 10 | Segundo Cota 2011, recidiva de 60% com profilaxia vs 100% sem (não significativo) |
 | B6 | Mira JA et al. Am J Trop Med Hyg. 2004;70(3):298-301 | 15031520 | Coorte retrospectiva / Espanha | 31 | 10 com profilaxia vs 21 sem; 8 (38%) recidivas no grupo sem profilaxia |
-| B7 | Cipriano A et al. Acta Med Port. 2017;30(6):443-8 | 28898610 | Retrospectivo / Portugal | 23 | 14 aderentes à profilaxia vs não aderentes; "a adesão reduz inequivocamente a recidiva" |
+| B7 | Cipriano P et al. Acta Med Port. 2017;30(6):443-8 | 28898610 | Retrospectivo / Portugal | 23 | 14 aderentes à profilaxia vs não aderentes; "a adesão reduz inequivocamente a recidiva" |
 
 **Total potencialmente elegível: 14 publicações, provavelmente 13 populações distintas.**
 
