@@ -218,7 +218,8 @@ def forest(groups, fname, title, overall=None, note=""):
     if note:
         import textwrap
         ax.text(0.05, -1.8, "\n".join(textwrap.wrap(note, 170)), fontsize=8, va="top", ha="left")
-    ax.set_title(title, fontsize=12, fontweight="bold", loc="left")
+    if title:
+        ax.set_title(title, fontsize=12, fontweight="bold", loc="left")
     plt.tight_layout()
     fig.savefig(OUT / fname, dpi=300, format="jpg", pil_kwargs={"quality": 95})
     plt.close(fig)
@@ -318,12 +319,12 @@ log()
 note = ("OR < 1 favorece a profilaxia. Efeitos aleatórios (DerSimonian-Laird). Correção de 0,5 em estudos com célula zero (Goswami 2017, Bossolasco 2003). "
         "Ribera 1996: braços antimonial e alopurinol somados. Pintado 2001: OR e IC extraídos de Cota et al., 2011.")
 forest([(None, STUDIES, main)], "Figura1_forest_principal.jpg",
-       "Figura 1. Profilaxia secundária e recidiva de leishmaniose visceral em pacientes com HIV", note=note)
+       "", note=note)
 forest(groups, "Figura2_forest_subgrupos_periodo.jpg",
-       "Figura 2. Análise de subgrupos por período de publicação", overall=main,
+       "", overall=main,
        note=note + f" Diferença entre subgrupos: p = {pb:.3f}".replace(".", ",", 0))
 forest(agroups, "Figura3_forest_subgrupos_alocacao.jpg",
-       "Figura 3. Análise de subgrupos pela forma de alocação da profilaxia", overall=main, note=note)
+       "", overall=main, note=note)
 
 (OUT / "resultados_meta_analise.md").write_text("\n".join(lines), encoding="utf-8")
 print("\nFiguras salvas em", OUT)

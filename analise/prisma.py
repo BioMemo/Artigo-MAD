@@ -48,7 +48,6 @@ def stage(y0, y1, label):
     ax.text(3, (y0 + y1) / 2, label, rotation=90, fontsize=11, fontweight="bold", ha="center", va="center")
 
 
-ax.text(55, 133, "Fluxograma PRISMA 2020 de seleção dos estudos", fontsize=14, fontweight="bold", ha="center")
 # top header boxes
 ax.add_patch(FancyBboxPatch((8, 124), 64, 5, boxstyle="round,pad=0.2", fc="#FFE699", ec="#BF9000"))
 ax.text(40, 126.5, "Identificação de estudos em bases de dados", fontsize=11, fontweight="bold", ha="center", va="center")
