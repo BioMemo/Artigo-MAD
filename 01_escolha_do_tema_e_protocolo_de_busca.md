@@ -148,3 +148,12 @@ AND (mh:"Prevenção Secundária" OR mh:"Quimioprevenção" OR profilax* OR prop
 | Esquemas curtos de benznidazol | Comparações diferentes entre si; ensaio em andamento |
 | Helmintos e asma | Meta-análise de 2022 com 80 estudos |
 | Acurácia da intradermorreação de Montenegro | Já há meta-análise de métodos diagnósticos da LTA |
+
+---
+
+## Registro da busca na BVS/LILACS: 09/11/2026
+
+- Portal: https://pesquisa.bvsalud.org/portal/ (estratégia da seção 5, com operadores `mh:` e `tw:`)
+- **Coleção completa da BVS:** 461 resultados
+- **Coleção LILACS Plus:** 96 resultados (MEDLINE 51; **LILACS 30**; Sec. Est. Saúde SP 5; Ministério da Saúde-BR 3; non-MEDLINE 3; Coleciona SUS 3; BRISA/RedTESA 2; VETINDEX 2; os registros podem estar em mais de uma base)
+- Próximo passo: exportar os 96 registros da LILACS Plus, remover duplicatas com o PubMed e fazer a triagem por título e resumo.
