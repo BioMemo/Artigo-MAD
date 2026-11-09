@@ -95,3 +95,5 @@ Avaliam suspender a profilaxia ou preditores de recidiva, e não profilaxia vs n
 O PDF enviado como "American Journal of Medicine" **não contém Ribera 1996**: o ZIP traz outros artigos da revista (sarin, *C. difficile*, cortisol, amiloidose).
 
 **Ainda faltam os textos completos de:** Ribera 1996, Delgado Fernández 1997, López-Vélez 2004, Araújo 2021, Ribera 1995, Pintado 2001, Fernández Cotarelo 2003 e Mira 2004.
+
+**Araújo 2021 (A7), texto completo lido em 09/11/2026:** ✅ incluído. AmB lipossomal 3–5 mg/kg a cada 15 dias para CD4 < 350. Recidiva 4/11 vs 1/17 (p = 0,06). Forte confundimento por indicação (CD4 5–114 vs 9–932).
