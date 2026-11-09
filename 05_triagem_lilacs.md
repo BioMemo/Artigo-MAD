@@ -64,3 +64,13 @@
 | 47 | lil-475555 | 2006 | Oral miltefosine to treat leishmaniasis/ Miltefosina oral para el tratamiento de la leishmaniasis | Título/resumo: não avalia profilaxia secundária vs nenhuma (epidemiologia, diagnóstico, tratamento, revisão, relato de caso, guia ou estudo em animais). |
 | 48 | lil-259929 | 1999 | Concurrent leishmaniasis and human immunodeficiency virus infection: a study of four cases/ Concomitância de leishmanios | Título/resumo: não avalia profilaxia secundária vs nenhuma (epidemiologia, diagnóstico, tratamento, revisão, relato de caso, guia ou estudo em animais). |
 | 49 | lil-316804 | 1995 | Present situation of endemic parasitic diseases in Brazil/ Situaçäo atual das doenças parasitárias endêmicas, no Brasil | Título/resumo: não avalia profilaxia secundária vs nenhuma (epidemiologia, diagnóstico, tratamento, revisão, relato de caso, guia ou estudo em animais). |
+
+## Textos completos lidos (09/11/2026)
+
+| # | Estudo | Decisão | Motivo |
+|---|---|---|---|
+| 40 | Alexandrino-de-Oliveira et al., Mem Inst Oswaldo Cruz 2010 (Campo Grande, MS) | ❌ Excluído | 23 pacientes, 13 com recidiva, 2 óbitos. **Não há nenhuma informação sobre profilaxia secundária** (quem recebeu ou não). |
+| 26 | Hernández-Torres et al., Infectio 2015 (Murcia, Espanha) | ❌ Excluído | 16 recidivas, mas sem dados de profilaxia. Os autores afirmam que as recidivas "não puderam ser atribuídas ao tipo de tratamento". |
+| 46 | Dissertação Fiocruz 2007 (Campo Grande) | ⏸ Não buscado | Mesma coorte do item 40, cujo artigo não traz dados de profilaxia. Baixa chance de ter os dados. |
+| 22 | Tese UFC 2016 (Fortaleza) | ⏳ Aguardando texto completo | |
+| 34 | Tese G. Cota 2013 (Fiocruz-MG) | ⏳ Aguardando texto completo | |
