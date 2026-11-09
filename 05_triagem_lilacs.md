@@ -2,7 +2,7 @@
 
 - Registros exportados (Coleção LILACS Plus): **96**
 - Duplicatas da busca do PubMed (mesmo PMID): **47**
-- Registros novos triados por título e resumo: **49**
+- Registros sem PMID igual ao do PubMed: **49**. Após a remoção de duplicatas por título (9 já no PubMed + 5 internas), restam **35 registros novos** (ver 06_numeros_prisma.md)
 - Selecionados para leitura do texto completo: **5** (+1 duplicata interna)
 - Excluídos na triagem: **43**
 
@@ -11,7 +11,7 @@
 | # | Registro | Título | Por que | Link |
 |---|---|---|---|---|
 | 22 | biblio-971933 | Caracterização da leishmaniose visceral em pacientes coinfectados por hiv e fatores associados a óbito e recid | Tese (UFC, Fortaleza 2016): fatores associados a óbito e RECIDIVA em LV-HIV; Hospital São José, 2010–2013. Pode ter profilaxia como fator. | http://www.teses.ufc.br/tde_busca/arquivo.php?codArquivo=16704 |
-| 40 | lil-557232 | HIV/AIDS-associated visceral leishmaniasis in patients from an endemic area in Central-west Brazil | Mem Inst Oswaldo Cruz 2010 (Campo Grande, MS): 23 pacientes, recidiva 56,5%. Verificar se relata profilaxia por grupo. (Também indexado no PubMed, PMID 20835619, mas não captado pela nossa estratégia.) | http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0074-02762010000500016 |
+| 40 | lil-557232 | HIV/AIDS-associated visceral leishmaniasis in patients from an endemic area in Central-west Brazil | Mem Inst Oswaldo Cruz 2010 (Campo Grande, MS): 23 pacientes, recidiva 56,5%. Verificar se relata profilaxia por grupo. (⚠️ Correção: este artigo JÁ estava nos resultados do PubMed, PMID 20835619. Aparece aqui porque a primeira remoção de duplicatas comparou só o PMID; ver 06_numeros_prisma.md.) | http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0074-02762010000500016 |
 | 46 | lil-481751 | Leishmaniasis in HIV infected patientes: study of the cases observed in Campo Grande, MS, 2000-2006/ Leishmani | Dissertação (Fiocruz, 2007), mesma coorte de Campo Grande (2000–2006): provável sobreposição com o item acima. | — |
 | 26 | lil-742599 | Visceral leishmaniasis in Murcia: Multicentric study 1997-2013/ La leishmaniasis visceral en la región de Murc | Infectio 2015 (Murcia, Espanha, 1997–2013): 16 recidivas (11 em pacientes com AIDS). Verificar dados de profilaxia. | http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S0123-93922015000100005 |
 | 34 | lil-683961 | Clinical management of visceral leishmaniasis among HIV-infected adults: diagnostic accuracy, prognostic and t | Tese de doutorado de G. Cota (Fiocruz-MG, 2013): inclui a revisão de 2011 e a coorte de BH (todos receberam profilaxia). Baixa chance de comparação, mas vale checar. | http://www.cpqrr.fiocruz.br/texto-completo/T_50.pdf |
