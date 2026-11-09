@@ -72,5 +72,5 @@
 | 40 | Alexandrino-de-Oliveira et al., Mem Inst Oswaldo Cruz 2010 (Campo Grande, MS) | ❌ Excluído | 23 pacientes, 13 com recidiva, 2 óbitos. **Não há nenhuma informação sobre profilaxia secundária** (quem recebeu ou não). |
 | 26 | Hernández-Torres et al., Infectio 2015 (Murcia, Espanha) | ❌ Excluído | 16 recidivas, mas sem dados de profilaxia. Os autores afirmam que as recidivas "não puderam ser atribuídas ao tipo de tratamento". |
 | 46 | Dissertação Fiocruz 2007 (Campo Grande) | ⏸ Não buscado | Mesma coorte do item 40, cujo artigo não traz dados de profilaxia. Baixa chance de ter os dados. |
-| 22 | Tese UFC 2016 (Fortaleza) | ⏳ Aguardando texto completo | |
-| 34 | Tese G. Cota 2013 (Fiocruz-MG) | ⏳ Aguardando texto completo | |
+| 22 | Tese UFC 2016 (Fortaleza; Henn GAL) | ⚠️ Tese não obtida | O artigo derivado da tese (Henn et al., Braz J Infect Dis 2018;22(2):92-8, PMID 29601790, PMC9428234) foi lido no PubMed Central: 81 pacientes com HIV vs 365 sem HIV, **sem dados de profilaxia secundária**. Registrar no PRISMA como "não obtido". |
+| 34 | Tese G. Cota 2013 (Fiocruz-MG) | ⚠️ Tese não obtida | Recebido em vez dela o artigo-capítulo: Cota et al., PLoS Negl Trop Dis 2013 (PMID 23658850), uma revisão sobre a **eficácia do tratamento** (não da profilaxia). Fora do PICO. Útil na Discussão: em 10 de 17 estudos, a recidiva **sem profilaxia** variou de 26% a 50%. |
