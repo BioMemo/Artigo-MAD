@@ -97,3 +97,5 @@ O PDF enviado como "American Journal of Medicine" **não contém Ribera 1996**: 
 **Ainda faltam os textos completos de:** Ribera 1996, Delgado Fernández 1997, López-Vélez 2004, Araújo 2021, Ribera 1995, Pintado 2001, Fernández Cotarelo 2003 e Mira 2004.
 
 **Araújo 2021 (A7), texto completo lido em 09/11/2026:** ✅ incluído. AmB lipossomal 3–5 mg/kg a cada 15 dias para CD4 < 350. Recidiva 4/11 vs 1/17 (p = 0,06). Forte confundimento por indicação (CD4 5–114 vs 9–932).
+
+**Ribera 1996 (A1), texto completo lido em 09/11/2026:** ✅ incluído. Antimonial 3/17 e alopurinol 5/9 vs controle 13/20. **Controle histórico**: grupos alocados por período (1988–91, 1991–92, 1992–95). Antimonial mensal sem efeitos adversos.
