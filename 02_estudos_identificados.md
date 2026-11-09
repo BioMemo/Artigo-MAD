@@ -86,7 +86,7 @@ Avaliam suspender a profilaxia ou preditores de recidiva, e não profilaxia vs n
 | Estudo | Situação | Dados extraídos (recidiva: profilaxia vs sem) |
 |---|---|---|
 | Laguna 1997 (B2) | ✅ **Incluído** (passa ao grupo A) | Pentamidina mensal: 5/13 vs 5/10. Confundimento: CD4 36 vs 118. |
-| Bossolasco 2003 (B5) | ✅ **Incluído** (passa ao grupo A) | AmB lipossomal 3 mg/kg mensal: 3/5 vs 4/4. Controles também sem TARV. |
+| Bossolasco 2003 (B5) | ✅ **Incluído** (passa ao grupo A) | AmB lipossomal 3 mg/kg mensal: 3/5 vs 4/4. 2 dos 4 controles sem TARV. |
 | Pasquau 2005 (A4) | ✅ Incluído | 62 com vs 93 sem; sem contagem por grupo. Usar o RR ajustado de 0,78 (IC95% 0,68–0,89). |
 | Goswami 2017 (A5) | ✅ Incluído | 0/27 vs 18/24. Controle histórico (a profilaxia foi adotada no fim do período). |
 | Diro 2019 (A6) | ✅ Incluído | 12/29 vs 9/22. Grupos definidos pelo CD4 (110 vs 337). |
