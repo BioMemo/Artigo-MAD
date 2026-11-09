@@ -78,3 +78,20 @@ Avaliam suspender a profilaxia ou preditores de recidiva, e não profilaxia vs n
 - [ ] Verificar a sobreposição de pacientes entre Ribera 1995 e 1996, e entre os estudos espanhóis multicêntricos (Pasquau 2005 e Laguna 1997)
 - [ ] Rodar a busca em LILACS, Embase/Scopus e CENTRAL (esperam-se estudos brasileiros adicionais na LILACS)
 - [ ] Busca de citações (quem citou López-Vélez 2004 e Goswami 2017)
+
+---
+
+## Atualização 09/11/2026: textos completos lidos
+
+| Estudo | Situação | Dados extraídos (recidiva: profilaxia vs sem) |
+|---|---|---|
+| Laguna 1997 (B2) | ✅ **Incluído** (passa ao grupo A) | Pentamidina mensal: 5/13 vs 5/10. Confundimento: CD4 36 vs 118. |
+| Bossolasco 2003 (B5) | ✅ **Incluído** (passa ao grupo A) | AmB lipossomal 3 mg/kg mensal: 3/5 vs 4/4. Controles também sem TARV. |
+| Pasquau 2005 (A4) | ✅ Incluído | 62 com vs 93 sem; sem contagem por grupo. Usar o RR ajustado de 0,78 (IC95% 0,68–0,89). |
+| Goswami 2017 (A5) | ✅ Incluído | 0/27 vs 18/24. Controle histórico (a profilaxia foi adotada no fim do período). |
+| Diro 2019 (A6) | ✅ Incluído | 12/29 vs 9/22. Grupos definidos pelo CD4 (110 vs 337). |
+| Cipriano 2017 (B7) | ❌ **Excluir (sugestão)** | Os 9 sem profilaxia foram perdidos no seguimento, então não há controle comparável. |
+
+O PDF enviado como "American Journal of Medicine" **não contém Ribera 1996**: o ZIP traz outros artigos da revista (sarin, *C. difficile*, cortisol, amiloidose).
+
+**Ainda faltam os textos completos de:** Ribera 1996, Delgado Fernández 1997, López-Vélez 2004, Araújo 2021, Ribera 1995, Pintado 2001, Fernández Cotarelo 2003 e Mira 2004.
