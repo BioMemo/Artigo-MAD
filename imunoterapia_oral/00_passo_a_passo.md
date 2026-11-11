@@ -12,6 +12,20 @@ Início: 11/11/2026
 | **O** | **Primários:** (1) dessensibilização, ou seja, tolerar a dose-alvo no teste de provocação ao fim do tratamento; (2) reações sistêmicas ou anafilaxia durante o tratamento. **Secundários:** uso de adrenalina, abandono por evento adverso, tolerância sustentada (sem reação após suspender), esofagite eosinofílica, qualidade de vida |
 | **Desenho** | Ensaios clínicos randomizados que comparem diretamente duas ou mais doses de manutenção. Estudos comparativos não randomizados entram só em análise de sensibilidade |
 
+### Formato PICOTT
+
+| | Elemento | Definição |
+|---|---|---|
+| **P** | População | Crianças e adultos com alergia alimentar IgE-mediada |
+| **I** | Intervenção | Imunoterapia oral com dose de manutenção menor |
+| **C** | Comparador | Imunoterapia oral com dose de manutenção maior (padrão), no mesmo estudo |
+| **O** | Desfechos | Dessensibilização; reações sistêmicas/anafilaxia (primários) |
+| **T** | Tempo | Dessensibilização avaliada no teste de provocação ao fim da fase de manutenção (em geral, 6 a 24 meses de tratamento). Reações sistêmicas contabilizadas durante todo o tratamento (escalonamento + manutenção). Tolerância sustentada avaliada após a suspensão, quando relatada |
+| **T** | Tipo de pergunta | Intervenção/terapia (eficácia comparativa e segurança) |
+| **T** | Tipo de estudo | Ensaios clínicos randomizados. Estudos comparativos não randomizados só em análise de sensibilidade |
+
+**Pergunta:** em crianças e adultos com alergia alimentar IgE-mediada (P), a imunoterapia oral com dose de manutenção menor (I), comparada à dose de manutenção maior (C), resulta em dessensibilização semelhante e em menos reações sistêmicas (O), avaliadas ao fim da fase de manutenção e durante todo o tratamento (T), segundo ensaios clínicos randomizados (T)?
+
 > Como "dose baixa" varia entre alimentos e estudos, a comparação é sempre **dentro do mesmo estudo** (dose menor vs maior). Na análise, dá para separar subgrupos por alimento e pela razão entre as doses.
 
 ## Passo a passo
